@@ -60,18 +60,18 @@ git clone https://github.com/DEVANG-2021/CropPredictionModel.git
 ## Running the ML Model
 1. **Navigate to the ML_model folder**:
    
-      ```bash
+```bash
 cd ML_model
 ```
 
 2. **Navigate to the ML_model folder**:
 
-    ```bash
+```bash
   cd ML_model
-  ```
+```
 
 3. **Start the Flask server**:
-  ```bash
+```bash
 python api.py
 ```
 
