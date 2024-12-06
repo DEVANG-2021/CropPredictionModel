@@ -1,0 +1,26 @@
+rice  - 
+maize - મકાઈ
+chickpea - ચણા
+kidneybeans - રાજમા
+pigeonpeas - કબૂતર વટાણા
+
+mothbeans - મોથબીન્સ
+mungbean - મગબીન
+blackgram - બ્લેકગ્રામ
+lentil - મસૂર
+pomegranate - દાડમ
+
+banana - 
+mango
+grapes
+watermelon
+muskmelon
+
+apple
+orange
+papya
+coconut
+jute
+
+cotton
+coffee
