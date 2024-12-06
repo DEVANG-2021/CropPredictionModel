@@ -105,9 +105,9 @@ python api.py
 
 Here’s an example screenshot of the simulation:
 
-![Adjusting all parameters to zero](Images/unnamed.png)
+![Adjusting all parameters to zero](images/asjusting_parameters.png)
 
-![Adjusting all parameters to zero](Images/ss2.png)
+![Adjusting all parameters to zero](images/got_crop_prediction.png)
 
 
 
